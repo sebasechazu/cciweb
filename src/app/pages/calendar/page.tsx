@@ -86,22 +86,6 @@ const events = [
     };
   }, []);
 
-  // const handleEventClick = (clickInfo) => {
-  //   Swal.fire({
-  //     title: clickInfo.event.title,
-  //     html: `<div class="justified-text">${clickInfo.event.extendedProps.description || ''}</div>`,
-  //     icon: 'info',
-  //     confirmButtonText: 'Cerrar',
-  //     confirmButtonColor: 'red',
-  //     width: '80%',
-  //     backdrop: true,
-  //     footer: clickInfo.event.extendedProps.footer || '',
-  //     customClass: {
-  //       htmlContainer: 'custom-html-container'
-  //     }
-  //   });
-  // };
-
   const handleEventClick = (clickInfo: EventClickArg) => {
     Swal.fire({
       title: clickInfo.event.title,
