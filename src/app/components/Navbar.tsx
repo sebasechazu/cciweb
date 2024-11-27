@@ -2,8 +2,6 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import Imagen from '../../img/Logo_CCI.jpeg';
-
 
 const Navbar: React.FC = () => {
 
@@ -16,15 +14,17 @@ const Navbar: React.FC = () => {
           <div className="flex items-center flex-grow">
             <Link href="/">
               <Image
-                src={Imagen}	
+                src="/LogoCCI.jpg"
                 alt="CCI"
                 typeof='webp'
-                width={350}
+                width={150}
                 height={350}
                 className="object-contain max-h-16"
                 priority
               />
+
             </Link>
+            
           </div>
 
           {/* Links rightside */}

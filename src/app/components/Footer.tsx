@@ -9,10 +9,11 @@ const Footer = () => {
           
       <Link href="/">  
         <Image
-          src="/Logo_CCI.jpeg"
+          src="/LogoCCI.jpg"
           alt="Logo"
-          width={0}
-          height={0}
+          width={100}
+          height={50}
+          layout="intrinsic"
           sizes="300vw"
           className="h-20 w-auto drop-shadow-2xl rounded-lg"
           priority
