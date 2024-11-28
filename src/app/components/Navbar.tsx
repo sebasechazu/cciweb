@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center flex-grow">
             <Link href="/">
               <Image
-                src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/LogoCCI.jpg`}
+                src="/cciweb/LogoCCI.jpg"
                 alt="CCI"
                 typeof='webp'
                 width={150}
