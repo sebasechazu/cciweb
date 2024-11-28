@@ -9,7 +9,7 @@ const callouts = [
       imageAlt: 'mdita',
       width: 1000,
       height: 1000,
-      href: '/pages/ospitalita2024',
+      href: '/cciweb/pages/ospitalita2024',
     },
     {
       name: '23/09/2024.',
