@@ -29,7 +29,7 @@ const callout = [
     {
       name: '01/10/2024',
       description: 'Ospitalità Italiana: Un reconocimiento a la excelencia en la gastronomía',
-      imageSrc: '/Logo.jpg',
+      imageSrc: '/cciweb/Logo.jpg',
       imageAlt: 'mdita',
       width: 1000,
       height: 1000,
@@ -38,7 +38,7 @@ const callout = [
     {
       name: '23/09/2024.',
       description: 'La CCI en Radio La Red',
-      imageSrc: '/radio.jpg',
+      imageSrc: '/cciweb/radio.jpg',
       imageAlt: 'lared',
       width: 1000,
       height: 1000,
@@ -47,7 +47,7 @@ const callout = [
     {
       name: '28/08/2024',
       description: 'Éxito rotundo en las Jornadas de Ciencias Económicas de la UNCuyo con participación de la Cámara de Comercio Italiana de Mendoza',
-      imageSrc: '/uncuyo.jpg',
+      imageSrc: '/cciweb/uncuyo.jpg',
       imageAlt: 'unc',
       width: 1000,
       height: 1000,

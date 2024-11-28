@@ -12,8 +12,8 @@ interface ImageData {
 }
 
 const images: ImageData[] = [
-  { src: '/banderaitalia.jpg', alt: 'bandera' },
-  { src: '/Nos renovamos.jpg', alt: 'renew' },
+  { src: '/cciweb/banderaitalia.jpg', alt: 'bandera' },
+  { src: '/cciweb/Nos renovamos.jpg', alt: 'renew' },
  
 ];
 

@@ -33,7 +33,7 @@ export default function minas() {
       <div className="">
         <div className="relative w-full" style={{ paddingBottom: '70%' }}>
           <Image
-            src="/radio.jpg"
+            src="/cciweb/radio.jpg"
             alt="Pedro Baziuk y Oliverio Gabrielli, junto con los representantes de Green Mining"
             layout="fill"
             objectFit="contain"

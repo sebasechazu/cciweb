@@ -5,7 +5,7 @@ const callouts = [
     {
       name: '01/10/2024',
       description: 'Ospitalità Italiana: Un reconocimiento a la excelencia en la gastronomía',
-      imageSrc: '/Logo.jpg',
+      imageSrc: '/cciweb/Logo.jpg',
       imageAlt: 'mdita',
       width: 1000,
       height: 1000,
@@ -14,7 +14,7 @@ const callouts = [
     {
       name: '23/09/2024.',
       description: 'La CCI en Radio La Red',
-      imageSrc: '/radio.jpg',
+      imageSrc: '/cciweb/radio.jpg',
       imageAlt: 'lared',
       width: 1000,
       height: 1000,
@@ -23,7 +23,7 @@ const callouts = [
     {
       name: '28/08/2024',
       description: 'Éxito rotundo en las Jornadas de Ciencias Económicas de la UNCuyo con participación de la Cámara de Comercio Italiana de Mendoza',
-      imageSrc: '/uncuyo.jpg',
+      imageSrc: '/cciweb/uncuyo.jpg',
       imageAlt: 'unc',
       width: 1000,
       height: 1000,
@@ -32,7 +32,7 @@ const callouts = [
     {
       name: '25/06/2024',
       description: 'La Cámara de Comercio Italiana en Mendoza ofrece beneficios para viajar a la Feria Simei Milán',
-      imageSrc: '/embotelladora.jpg',
+      imageSrc: '/cciweb/embotelladora.jpg',
       imageAlt: 'embotelladora',
       width: 1000,
       height: 1000,
@@ -41,7 +41,7 @@ const callouts = [
     {
       name: '18/06/2024',
       description: 'Simei 2024: destilados, cerveza y aceite de oliva tendrán su lugar junto al vino y toda la tecnología',
-      imageSrc: '/deodorizes.jpg',
+      imageSrc: '/cciweb/deodorizes.jpg',
       imageAlt: 'simei',
       width: 1000,
       height: 1000,
@@ -50,7 +50,7 @@ const callouts = [
     {
       name: '14/06/2024',
       description: 'La Cámara de Comercio Italiana en la Expo San Juan Minera 2024: Promoviendo el Made in Italy en el Sector Minero Argentino',
-      imageSrc: '/exposj.jpeg',
+      imageSrc: '/cciweb/exposj.jpeg',
       imageAlt: 'expo',
       width: 1000,
       height: 1000,
@@ -59,7 +59,7 @@ const callouts = [
     {
       name: '26/05/2024',
       description: 'Lacrado en botellas, el ritual de conservar y distinguir al vino al que le llegó la hora de su mecanización',
-      imageSrc: '/Lacre.jpg',
+      imageSrc: '/cciweb/Lacre.jpg',
       imageAlt: 'Botella',
       width: 1000,
       height: 1000,
@@ -68,7 +68,7 @@ const callouts = [
     {
       name: '23/05/2024',
       description: '“Estamos esperando alguna normativa que motorice la importación de tecnologías vitivinícolas”',
-      imageSrc: '/cilindros.jpg',
+      imageSrc: '/cciweb/cilindros.jpg',
       imageAlt: 'Cilindros de Acero',
       width: 1000,
       height: 1000,
@@ -77,7 +77,7 @@ const callouts = [
     {
       name: '24/05/2024',
       description: 'Exitosa participación de la CCI en SITEVINITECH 2024',
-      imageSrc: '/sitevinitech.jpeg',
+      imageSrc: '/cciweb/sitevinitech.jpeg',
       imageAlt: 'sitevinitech',
       width: 1000,
       height: 1000,
@@ -86,7 +86,7 @@ const callouts = [
     {
       name: '30/04/2024',
       description: 'CCI invita a productores frutihortícolas y exportadores a participar online en la Macfrut 2024 de Italia',
-      imageSrc: '/Macfrutexpo.jpg',
+      imageSrc: '/cciweb/Macfrutexpo.jpg',
       imageAlt: 'Expo',
       width: 1000,
       height: 1000,
@@ -95,7 +95,7 @@ const callouts = [
     {
       name: '19/04/2024',
       description: 'Recepción de la comitiva de la Scuola Enologica Cerletti en Mendoza',
-      imageSrc: '/instconegliano.jpeg',
+      imageSrc: '/cciweb/instconegliano.jpeg',
       imageAlt: 'inst',
       width: 1000,
       height: 1000,
@@ -104,7 +104,7 @@ const callouts = [
     {
       name: '19/02/2024',      
       description: 'MACFRUT 2024: La Feria Internacional de Frutas y Verduras',
-      imageSrc: '/macfrut24.jpg',
+      imageSrc: '/cciweb/macfrut24.jpg',
       imageAlt: 'mcf',
       width: 1000,
       height: 1000,
