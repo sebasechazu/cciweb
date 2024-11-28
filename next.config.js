@@ -4,12 +4,13 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     unoptimized: true,
-    domains: ['https://www.ccimendoza.com/'],
   },
- 
-}
+  basePath: '/cciweb',
+  assetPrefix: '/cciweb',
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
+
 
 
 
