@@ -9,7 +9,7 @@ const Footer = () => {
           
       <Link href="/">  
         <Image
-          src="/LogoCCI.jpg"
+          src="/cciweb/LogoCCI.jpg"
           alt="Logo"
           width={100}
           height={50}
